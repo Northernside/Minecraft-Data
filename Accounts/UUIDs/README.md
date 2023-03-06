@@ -1,0 +1,2 @@
+# UUIDs
+Those are UUIDs & Usernames captured by my LabyMod 4 addon [UUIDCollector](https://github.com/Northernside/UUIDCollector). The JSON put into here isn't always the latest data but will be updated quite regularly, though the latest & live JSON can be found under [this URL](https://db.lilo-lookup.de/api/user/total/json).
